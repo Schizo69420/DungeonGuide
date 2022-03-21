@@ -20,8 +20,8 @@ Short answer: This mod follows the general interpretation of Hypixel's rules, do
 ### How to download:
 1. Download the .zip from github (Code -> Download ZIP)
 2. Extract the folder
-3. Open the folder until you get to the .jar named exactly "DungeonQOL.jar"
-4. Move the "DungeonQOL.jar" file into .minecraft\mods
-5. If your file is not named EXACTLY "DungeonQOL.jar" then it WILL NOT WORK.
+3. Open the folder until you get to the .jar named EXACTLY "DungeonGuide.jar"
+4. Move the "DungeonGuide.jar" file into .minecraft\mods
+5. If your file is not named EXACTLY "DungeonGuide.jar" then it WILL NOT WORK.
 6. Launch MC
 7. Done!
