@@ -1,4 +1,4 @@
-# DungeonQOL
+# DungeonGuide
 ## Best Hypixel Skyblock Mod for Dungeons 
 
 ### Is This Bannable?
